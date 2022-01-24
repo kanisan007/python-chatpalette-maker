@@ -1,0 +1,77 @@
+http://anomalo3.blog.shinobi.jp/%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%95%E7%A5%9E%E8%A9%B1trpg/%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%95%E7%A5%9E%E8%A9%B1trpg%20%E6%8A%80%E8%83%BD%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D
+
+https://console.cloud.google.com/iam-admin/serviceaccounts/details/104563688122619966636;edit=true/keys?hl=ja&project=spreadsheet-test-338505
+
+https://tanuhack.com/operate-spreadsheet/
+
+https://tanuhack.com/library-gspread/#i-4
+
+https://ccfolia.com/rooms/OnHZmW8mK
+
+https://docs.google.com/spreadsheets/d/1UqIoljW8O637o34N_Z6JNvHPpLLqHKcBCZS1yIHfWNo/edit#gid=1696958370
+
+https://www.deepl.com/ja/translator#ja/en
+
+self. = self.worksheet.acell('S').value
+
+'''
+1d{レベル}+3+{db}+{威力}
+CC<={SAN} 【SAN値チェック】
+CC<={} 【アイデア】
+CC<=65 【幸運】
+CC<=80 【STR】
+CC<=60 【知識】
+CC<=70 【APP】
+CC<=55 【CONロール】
+CC<=55 【回避】
+CC<=80 【近接戦闘(基礎)】
+CC<=20 【投擲】
+CC<=20 【拳銃】
+CC<=0 【射撃】
+CC<=51 【武道（居合術）】
+CC<=40 【応急手当】
+CC<=1 【鍵開け】
+CC<=10 【手さばき】
+CC<=50 【聞き耳】
+CC<=50 【隠密】
+CC<=1 【精神分析】
+CC<=10 【追跡】
+CC<=20 【登攀】
+CC<=40 【図書館】
+CC<=55 【目星】
+CC<=5 【鑑定】
+CC<=20 【運転】
+CC<=10 【機械修理】
+CC<=1 【重機械操作】
+CC<=5 【乗馬】
+CC<=20 【水泳】
+CC<=5 【製作】
+CC<=1 【操縦】
+CC<=20 【跳躍】
+CC<=10 【電気修理】
+CC<=10 【ナビゲート】
+CC<=5 【変装】
+CC<=5 【言いくるめ】
+CC<=25 【信用】
+CC<=10 【説得】
+CC<=60 【母国語】
+CC<=15 【威圧】
+CC<=15 【魅惑】
+CC<=1 【言語】
+CC<=1 【医学】
+CC<=55 【オカルト】
+CC<=0 【クトゥルフ神話】
+CC<=5 【芸術】
+CC<=5 【経理】
+CC<=1 【考古学】
+CC<=5 【コンピューター】
+CC<=45 【科学(一般教養学)】
+CC<=60 【心理学】
+CC<=1 【人類学】
+CC<=1 【電子工学】
+CC<=10 【自然】
+CC<=5 【法律】
+CC<=5 【歴史】
+CC<=10 【サバイバル】
+CC<=11 【科学（天文学）】
+'''
